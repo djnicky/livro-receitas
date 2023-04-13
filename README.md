@@ -1,4 +1,4 @@
-##Strogonoff## :chiken
+Strogonoff
 
 _Livro de Receitas_
  
