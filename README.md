@@ -1,4 +1,4 @@
-##Strogonoff :chicken
+##Strogonoff## :chiken
 
 _Livro de Receitas_
  
